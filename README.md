@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-test TEST
+I'm Jeong-bin Lee, a research intern at Sungkyunkwan University IWTL Lab.
+
+I am interested in data science, and I am currently studying related research in my laboratory.
 
 <!--
 **jim2091/jim2091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
