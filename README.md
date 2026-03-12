@@ -17,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jim2091&show_icons=true&locale=en" alt="jim2091" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jim2091&" alt="jim2091" /></p>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=본인의 백준 ID)](https://solved.ac/본인의 백준 ID/)
